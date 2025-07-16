@@ -74,7 +74,7 @@ Todos los archivos usan la proyección **WGS 84 (EPSG:4326)**.
 ### Nombres de departamentos, provincias y distritos sin tildes
 
 Los nombres de cada departamento, provincia y distrito carecen de tildaciones.
-Esto es debido a que todos los nombres recogidos del INEI se encuentran en
+Esto es debido a que todos los nombres recogidos del INEI se encuentran
 completamente en mayúsculas y sin tildes.
 
 Trataré de ir actualizando los datos, pero esto tomará tiempo. Revisa la tabla
