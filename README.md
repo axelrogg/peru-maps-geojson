@@ -17,9 +17,9 @@ Estos archivos son adecuados para su uso en:
 
 | Nivel        | Nombre del archivo     | Descripción      |
 |--------------|------------------------|------------------|
-| Departamento | `departments.geo.json` | 24 departamentos |
-| Provincia    | `provinces.geo.json`   | 193 provincias   |
-| Distrito     | `districts.geo.json`   | 1621 distritos   |
+| Departamento | `departments.geojson` | 24 departamentos |
+| Provincia    | `provinces.geojson`   | 193 provincias   |
+| Distrito     | `districts.geojson`   | 1621 distritos   |
 
 Todos los archivos usan la proyección **WGS 84 (EPSG:4326)**.
 
