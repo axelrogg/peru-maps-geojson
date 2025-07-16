@@ -64,11 +64,6 @@ Todos los archivos usan la proyección **WGS 84 (EPSG:4326)**.
 | `area`            | string       | Área superficial en grados cuadrados.                  |
 | `geometry`        | MultiPolygon | Representa la forma geográfica del objeto.             |
 
-
-## Fuente
-
-[INEI - Instituto Nacional de Estadística e Informática](https://ide.inei.gob.pe/#geo)
-
 ## Notas
 
 ### Nombres de departamentos, provincias y distritos sin tildes
@@ -85,4 +80,8 @@ para saber si los datos están actualizados o no.
 | Departamentos |       ❌        |
 | Provincias    |       ❌        |
 | Distritos     |       ❌        |
+
+## Fuente
+
+[INEI - Instituto Nacional de Estadística e Informática](https://ide.inei.gob.pe/#geo)
 
